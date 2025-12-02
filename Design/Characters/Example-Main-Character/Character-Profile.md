@@ -2,24 +2,24 @@
 
 ## General Details
 
-Name:
+Name: Doug Dooley
 
-Age: 
+Age: 25 
 
-Sex:
+Sex: Male
 
-World Location:
+World Location: Space
 
-Next of Kin:
+Next of Kin: Deela Dooley
 
 ## History
-Background of character.
+Doug Dooley has always been enthustic about drilling even as a young boy. His talents made him get hired as a miner gatering resources for his planet. He has always had a rivalry with Dillan, a co worker who always seemed to take the easy way out rather than doing actual work. Doug and his wife Deela have always lived in peace, but Doug always felt like he wanted to do more.
 
 ## Psychology
 
-Likes:
+Likes: Drilling, Sky Diving, Worm Cheese, Resources, Workaholic.
 
-Dislikes:
+Dislikes: Dillan, Laziness, Mint Beetles, 
 
 Flaws/Weaknesses:
 
