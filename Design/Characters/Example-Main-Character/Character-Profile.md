@@ -2,32 +2,32 @@
 
 ## General Details
 
-Name: Doug Dooley
+Name: The Drillmaster
 
 Age: 25 
 
 Sex: Male
 
-World Location: Space
+World Location: Earth
 
-Next of Kin: Deela Dooley
+Next of Kin: The Shovel Queen
 
 ## History
-Doug Dooley has always been enthustic about drilling even as a young boy. His talents made him get hired as a miner gatering resources for his planet. He has always had a rivalry with Dillan, a co worker who always seemed to take the easy way out rather than doing actual work. Doug and his wife Deela have always lived in peace, but Doug always felt like he wanted to do more.
+Drillmaster and his Best Friend has always wanted to build a town together. To do this The Drillmaster will have to use his expert Drilling skills in order to gain materials. Their hopes is to populate the town in order to create the best town they can.
 
 ## Psychology
 
-Likes: Drilling, Sky Diving, Worm Cheese, Resources, Workaholic.
+Likes: Drilling, Worm Cheese, Resources, Workaholic.
 
-Dislikes: Dillan, Laziness, Mint Beetles, 
+Dislikes: Underground Monsters, Laziness, Mint Beetles, hates the cold 
 
-Flaws/Weaknesses:
+Flaws/Weaknesses: Jack of all trades master of none, oblivous, hates the cold, doesen't sleep enough, obesstion to dig.
 
-Resistances/Strengths:
+Resistances/Strengths: Never gives up, good at finding resources, hard worker, deals with heat very well.
 
 From History:
 
-Exhibits behaviours such as Eg.
+Exhibits behaviours such as excitable to drill. Very chatty to everyone, espeically if its about drilling. 
 
 ## Social Connections
 Friends with:
