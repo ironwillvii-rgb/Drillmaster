@@ -1,18 +1,18 @@
 # Gameplay & Mechanics
 ## Game Flow
-How the game will move between home world and gathering world
+At the end of the level, players will have the chance to use the resources collected to upgrade the town not only to help get stronger, build better materials, collect more materials but also to unlock new characters.
 
 ## Mission Structure
-How the player is able to choose difficulties.
+Each character will have different variables to how they play and each tackling levels and getting stronger each time they fail. Once defeating the boss they go to the next level (biome) until they get to the final boss.
 
 ## Objectives
-What the player aims to do in the game
+The intial objective is to get past the levels and defeat the final boss of the game with a set number of characters. However if players manage to complete the final boss with all characters, a super final boss will be the final hurdle.
 
 ## Physics
-Is there gravity? Real world? Moon gravity?
+Character move left, right and can rotate downward depending on direction. 
 
 ## Economy
-The in-game economy of your game.
+Players can gain resources by doing a level over again until they can upgrade a town or building. They also have the option when unlcoked to either sell or exchange for other resources. Character also assigned to building have strengths and weaknesses to make the progress of each building better making it better for the player.
 
 ## Mechanics
 ### Major Mechanic 1
