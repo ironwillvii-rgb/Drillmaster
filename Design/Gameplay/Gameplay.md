@@ -23,8 +23,8 @@ Rougelite where you upgrade to get better as the game progresses
 Different characters have different abilites depending on who you get for your town.
 
 ### Minor Mechanic 1
-Complete different objectives to gain blueprints
+Uses a currency gained by more time the player uses a character to use a gacha mechanic to either gain new abilites, get a blueprint for a new character or gain stronger.
 ### Minor Mechanic 2
 Completing with an amount of characters gets you to new biome.
 ### Minor Mechanic 3 
-Some in the game contain mini games in order to get your chosen character better
+
